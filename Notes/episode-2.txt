@@ -1,0 +1,13 @@
+Igniting the React app! 
+
+* "package.json" is a configuration for NPM.
+
+parcel -> caret(^) and tilde(~) in package.json these were used for upgradation of any package automatically if ^ is used updates minor updates and ~ will do major upgrades.
+
+
+package.json -> configuration for npm it keeps track of dependencies installed into our system. 
+packagelock.json -> keep record or track of extract version that is being installed.It is kind of database dependencies that our project needs.
+
+
+node modules contains all the info that is being fetched from an npm.
+

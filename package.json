@@ -1,0 +1,27 @@
+{
+  "name": "react_learning",
+  "version": "1.0.0",
+  "description": "this includes react concepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhanushsingamala/React-learning.git"
+  },
+  "keywords": [
+    "react",
+    "learnreact",
+    "dhanush"
+  ],
+  "author": "dhanush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhanushsingamala/React-learning/issues"
+  },
+  "homepage": "https://github.com/Dhanushsingamala/React-learning#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
